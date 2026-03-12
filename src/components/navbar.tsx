@@ -23,13 +23,13 @@ export function Navbar() {
                 href="#technology"
                 className="font-geist text-white hover:text-red-500 transition-colors duration-200"
               >
-                Технологии
+                Чарт
               </a>
               <a href="#safety" className="font-geist text-white hover:text-red-500 transition-colors duration-200">
-                Безопасность
+                Моя музыка
               </a>
               <a href="#faq" className="font-geist text-white hover:text-red-500 transition-colors duration-200">
-                Вопросы
+                Плейлисты
               </a>
             </div>
           </div>
@@ -59,21 +59,21 @@ export function Navbar() {
                 className="block px-3 py-2 font-geist text-white hover:text-red-500 transition-colors duration-200"
                 onClick={() => setIsOpen(false)}
               >
-                Технологии
+                Чарт
               </a>
               <a
                 href="#safety"
                 className="block px-3 py-2 font-geist text-white hover:text-red-500 transition-colors duration-200"
                 onClick={() => setIsOpen(false)}
               >
-                Безопасность
+                Моя музыка
               </a>
               <a
                 href="#faq"
                 className="block px-3 py-2 font-geist text-white hover:text-red-500 transition-colors duration-200"
                 onClick={() => setIsOpen(false)}
               >
-                Вопросы
+                Плейлисты
               </a>
               <div className="px-3 py-2">
                 <Button className="w-full bg-red-500 hover:bg-red-600 text-white font-geist border-0">

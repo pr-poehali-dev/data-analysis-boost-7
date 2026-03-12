@@ -38,7 +38,7 @@ export function Footer() {
                   href="#technology"
                   className="font-space-mono text-gray-400 hover:text-red-500 transition-colors duration-200"
                 >
-                  Технологии
+                  Чарт
                 </a>
               </li>
               <li>
@@ -46,7 +46,7 @@ export function Footer() {
                   href="#applications"
                   className="font-space-mono text-gray-400 hover:text-red-500 transition-colors duration-200"
                 >
-                  Применения
+                  Поиск
                 </a>
               </li>
               <li>
@@ -54,7 +54,7 @@ export function Footer() {
                   href="#safety"
                   className="font-space-mono text-gray-400 hover:text-red-500 transition-colors duration-200"
                 >
-                  Безопасность
+                  Моя музыка
                 </a>
               </li>
               <li>
@@ -62,7 +62,7 @@ export function Footer() {
                   href="#faq"
                   className="font-space-mono text-gray-400 hover:text-red-500 transition-colors duration-200"
                 >
-                  Вопросы
+                  Плейлисты
                 </a>
               </li>
             </ul>
