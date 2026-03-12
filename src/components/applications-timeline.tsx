@@ -85,7 +85,7 @@ export function ApplicationsTimeline() {
         <div className="text-center mb-16">
           <h2 className="font-display text-3xl md:text-5xl font-bold text-white mb-6">Трансформирующие применения</h2>
           <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
-            Технологии SynapseAI открывают беспрецедентные возможности для усиления человека, медицинского
+            Технологии Данек Ло открывают беспрецедентные возможности для усиления человека, медицинского
             лечения и цифровой интеграции в множестве областей.
           </p>
         </div>
